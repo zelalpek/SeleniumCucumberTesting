@@ -54,5 +54,5 @@
       When The user wants to click gmail
       Then The user wants to enter email
       And The user wants to enter password
-      //Then The user wants to click login
+      #Then The user wants to click login
       And The user wants to verify the first email
